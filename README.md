@@ -32,7 +32,7 @@ LocalStorage API (for data persistence)
 
 Here’s a quick look at the To-Do List application:
 
-![image_alt]()
+![image_alt](https://github.com/Kritarth22/TO-DO-List/blob/5ea2cb88ae7a83d51844eeb8001f4f085841b17d/TO-DO-List.png)
 
 **🚀 Deployment**
 
