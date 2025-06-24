@@ -27,3 +27,15 @@ JavaScript
 Tailwind CSS (for styling)
 
 LocalStorage API (for data persistence)
+
+**🔍 Preview**
+
+Here’s a quick look at the To-Do List application:
+
+![image_alt]()
+
+**🚀 Deployment**
+
+To view the live version of this project, visit:
+
+🔗 [https://kritarth22.github.io/TO-DO-list-App/](https://to-do-list-psi-neon.vercel.app/)
