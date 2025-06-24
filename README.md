@@ -1,4 +1,4 @@
-# 📝 To-Do List App
+# 📝 To-Do List App (with Local Storage)
 
 This is a simple and intuitive To-Do List application built using React.js.
 
